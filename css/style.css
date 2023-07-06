@@ -30,9 +30,7 @@
     margin: 0 auto;
     background-image: url("../images/banner-bg.png");
     background-repeat: no-repeat;
-    background-size: cover;
-    /* font-weight: bold; */
-    background-color: aquamarine;
+    background-size: 1350px 600px;
 }
 .logo
 {
@@ -1354,6 +1352,22 @@ width: 85%;
 
 
 
+
+}
+
+/* media querry fr mobile*************************************** */
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .banner
+    {
+        background-size: 375px 500px;
+    }
 
 }
 
