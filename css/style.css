@@ -1366,7 +1366,7 @@ width: 85%;
 @media screen and (max-width: 768px) {
     .banner
     {
-        background-size: 375px 500px;
+        background-size: 425px 500px;
     }
     .logo{
         background-size: 110px 20px;
